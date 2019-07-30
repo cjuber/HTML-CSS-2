@@ -92,7 +92,7 @@ body{
 
 }
 .box{
-
+    background: #EBEBEB;
     border: 1px solid #DBDBDB;
     width: 300px;
     height: 275px;
